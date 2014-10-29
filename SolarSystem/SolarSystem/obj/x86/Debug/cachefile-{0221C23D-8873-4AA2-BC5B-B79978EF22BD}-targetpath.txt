@@ -1,0 +1,12 @@
+Content\img\earth.xnb
+Content\img\jupiter.xnb
+Content\img\mars.xnb
+Content\img\mercury.xnb
+Content\img\neptune.xnb
+Content\img\pluto.xnb
+Content\img\saturn.xnb
+Content\img\sun.xnb
+Content\img\uranus.xnb
+Content\img\venus.xnb
+Content\img\stars.xnb
+Content\font\ArialBold.xnb
